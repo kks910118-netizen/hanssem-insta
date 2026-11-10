@@ -1,0 +1,125 @@
+{
+  "out_dir": "../jukdang_slides",
+  "title": "이천 죽당리 더힐",
+  "subtitle": "신축 목조주택 수납·부엌",
+  "tagline": "부엌 · 현관장 · 안방 붙박이장 | 베이지 톤으로 이어서",
+  "tiles": [
+    {
+      "label": "부엌",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/부엌 전체 (1).jpg",
+      "fx": 0.45
+    },
+    {
+      "label": "현관장",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/현관장 내외부 (3).jpg",
+      "fy": 0.4
+    },
+    {
+      "label": "안방 붙박이장",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/안방 붙박이장 (1).jpg",
+      "fx": 0.5
+    }
+  ],
+  "slides": [
+    {
+      "key": "kitchen",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/부엌 전체 (2).jpg",
+      "fx": 0.42,
+      "tag": "01  ·  부엌",
+      "title": "밀란100 무드베이지 + 슈가베이지",
+      "lines": [
+        "은은한 붉은 빛의 라이트 베이지 도어",
+        "인조대리석 12T 상판으로 아일랜드까지 이어서"
+      ]
+    },
+    {
+      "key": "island",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/아일랜드 안쪽면 (1).jpg",
+      "fy": 0.5,
+      "tag": "01  ·  부엌",
+      "title": "단차를 둔 아일랜드 상판",
+      "lines": [
+        "작업대와 식사 공간을 나눠 쓰는 구성",
+        "거실 쪽으로 열린 동선"
+      ]
+    },
+    {
+      "key": "cooktop",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/쿡탑면 (1).jpg",
+      "fy": 0.5,
+      "tag": "01  ·  부엌",
+      "title": "소르젠테 사각볼 + 인덕션 3구",
+      "lines": [
+        "수전 HS610S 니켈무광 · 플레인900 후드",
+        "벽면은 벽돌 패턴 타일로 포인트"
+      ]
+    },
+    {
+      "key": "entrance",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/현관장 내외부 (3).jpg",
+      "fy": 0.45,
+      "tag": "02  ·  현관장",
+      "title": "무드화이트 현관장",
+      "lines": [
+        "수퍼 패브릭 몸통 · 매립형 손잡이",
+        "벽면 전체를 쓰는 높은 수납장"
+      ]
+    },
+    {
+      "key": "entrance_in",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/현관장 내외부 (1).jpg",
+      "fy": 0.5,
+      "tag": "02  ·  현관장",
+      "title": "촘촘한 선반과 서랍 구성",
+      "lines": [
+        "신발은 선반에, 작은 물건은 서랍과 칸에",
+        "도어를 열면 용도별로 정리"
+      ]
+    },
+    {
+      "key": "wardrobe",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/안방 붙박이장 (2).jpg",
+      "fx": 0.5,
+      "tag": "03  ·  안방 붙박이장",
+      "title": "인피니 베이지 슬라이딩",
+      "lines": [
+        "은은한 스톤 텍스처의 4짝 슬라이딩 도어",
+        "문이 튀어나오지 않아 방을 넓게"
+      ]
+    },
+    {
+      "key": "wardrobe_in",
+      "photo": "/tmp/claude-0/-home-claude/6ce6d02b-105b-5f17-95cd-c2d78779a35e/scratchpad/jukdang/안방 붙박이장 (3).jpg",
+      "fx": 0.5,
+      "tag": "03  ·  안방 붙박이장",
+      "title": "시그니처 몸통 + 서랍 구성",
+      "lines": [
+        "미드브라운 우드 톤 몸통",
+        "걸이 · 선반 · 서랍을 한 칸에 모아서"
+      ]
+    }
+  ],
+  "summary_sub": "베이지 톤으로 필요한 수납과 부엌을 한 번에",
+  "summary": [
+    {
+      "name": "부엌",
+      "lines": [
+        "밀란100 무드베이지 도어 · 슈가베이지 인조대리석 12T",
+        "소르젠테 사각볼 · 수전 HS610S 니켈무광",
+        "한샘 인덕션 3구 블랙 · 플레인900 후드"
+      ]
+    },
+    {
+      "name": "현관장",
+      "lines": [
+        "무드화이트 도어 · 수퍼 패브릭 몸통"
+      ]
+    },
+    {
+      "name": "안방 붙박이장",
+      "lines": [
+        "인피니 베이지 슬라이딩 도어 · 시그니처 몸통"
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@
 site.json 예시는 sites/dusan.json 참고. 사진 경로는 json 기준 상대경로.
 """
 import json, sys, os
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 W, H = 1080, 1350
 IVORY = (243, 239, 231)
@@ -59,7 +59,7 @@ def pill(d, xy, s, f, bg, fg, px=18, py=8):
 
 
 def load(base, p):
-    return Image.open(os.path.join(base, p)).convert("RGB")
+    return ImageOps.exif_transpose(Image.open(os.path.join(base, p))).convert("RGB")
 
 
 def make_cover(cfg, base, out):
