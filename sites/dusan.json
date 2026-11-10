@@ -1,0 +1,37 @@
+{
+  "out_dir": "../dusan_slides",
+  "title": "이천 두산아파트",
+  "subtitle": "부엌 · 욕실 · 현관장 교체",
+  "tagline": "필요한 공간만 | 밝은 베이지 톤으로 이어서",
+  "tiles": [
+    {"label": "부엌", "photo": "../dusan/2_kitchen_L.jpg"},
+    {"label": "거실욕실", "photo": "../dusan/4_bath_overview.jpg", "fy": 0.4},
+    {"label": "현관장", "photo": "../dusan/7_entrance.jpg", "fy": 0.4}
+  ],
+  "slides": [
+    {"key": "entrance", "photo": "../dusan/7_entrance.jpg", "tag": "01  ·  현관장",
+     "title": "플랫 화이트 현관장",
+     "lines": ["수퍼 패브릭 몸통 · 무광 화이트 도어", "추후 중문 설치를 고려해 타일 라인까지 시공"]},
+    {"key": "kitchen", "photo": "../dusan/1_kitchen_front.jpg", "tag": "02  ·  부엌",
+     "title": "밀란100 무드베이지 + 코튼베이지",
+     "lines": ["HS12 코튼베이지+ 상판 · 소르젠테 84볼", "인덕션 3구 · 아이슬라이딩 후드 · 300×600 타일"]},
+    {"key": "kitchen_tall", "photo": "../dusan/3_kitchen_side.jpg", "tag": "02  ·  부엌",
+     "title": "L자 구성 + 가전장",
+     "lines": ["전자레인지 · 밥솥을 한곳에 모은 가전장", "상부장 H600 비규격 · 창 하부 맞춤 시공"]},
+    {"key": "bath", "photo": "../dusan/4_bath_overview.jpg", "tag": "03  ·  거실욕실",
+     "title": "전체 철거 후 방수부터 새로",
+     "lines": ["코스모 그리지오 600×600 바닥·벽 통일", "사틴그레이 파티션 650×1900 · 비규격 제작"]},
+    {"key": "bath_sink", "photo": "../dusan/6_bath_sink.jpg", "tag": "03  ·  거실욕실",
+     "title": "벽걸이 세면대 + 선반 + 간접등",
+     "lines": ["세면대 HS-609 · 세면수전 BSL-2001", "슬라이딩 욕실장 1300 · 하부 간접등"]},
+    {"key": "bath_toilet", "photo": "../dusan/5_bath_toilet.jpg", "tag": "03  ·  거실욕실",
+     "title": "매립 선반으로 정돈한 변기 주변",
+     "lines": ["원피스 TY-200 · 샤워수전 BSB-2005", "휴지걸이 · 샤워 슬라이딩바 · 3인치 천장등"]}
+  ],
+  "summary_sub": "밝은 베이지 톤으로 필요한 공간만 교체",
+  "summary": [
+    {"name": "현관장", "lines": ["플랫 화이트 도어 · 수퍼 패브릭 몸통", "추후 중문 설치 고려 · 타일 라인까지 시공"]},
+    {"name": "부엌", "lines": ["밀란100 무드베이지 도어 · HS12 코튼베이지+ 상판", "소르젠테 84볼 · 인덕션 3구 · 아이슬라이딩 후드", "300×600 타일 · 수전 HS730"]},
+    {"name": "거실욕실", "lines": ["코스모 그리지오 600×600 · 원피스 TY-200", "세면대 HS-609 · 슬라이딩 욕실장 1300", "사틴그레이 파티션 650×1900 · 3인치 천장등"]}
+  ]
+}
